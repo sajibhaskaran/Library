@@ -1,0 +1,23 @@
+1, 0984782850, Cracking the Coding Interview, Gayle Laakmann McDowell, CareerCup
+2, 1000000001, SQL tuning, Dan Tow, O'Reilly
+3, 1000000002, Getting started with SQL, Thomas Nield, O'Reilly
+4, 1000000003, The Manga guide to databases, Mana Takahashi, No Starch Press
+5, 1000000004, Learning PHP, MySQL, JavaScript, and CSS, Robin Nixon, O'Reilly
+6, 1000000005, PHP & MySQL for dummies, Janet Valade, Wiley Pub Inc.
+7, 1000000006, Pro PHP and jQuery, JASON LENGSTORF, Apress.
+8, 1000000007, JavaScript cookbook : programming the web, Shelley Powers, O'Reilly
+9, 1000000008, JavaScript bible, Danny Goodman, Wiley
+10, 1000000009, Reliable JavaScript, Lawrence D. Spencer, Wiley
+11, 1000000010, Secrets of the JavaScript ninja, John Resig, Manning
+12, 1000000011, Learn Python in one day and learn it well, Jamie Chan, CreateSpace
+13, 1000000012, Beginning programming with Python for dummies, John Paul Mueller, Wiley
+14, 1000000013, Programming Python, Mark Lutz, O'Reilly
+15, 1000000014, Understanding coding with Python, Patricia Harris, PowerKids Press
+16, 1000000015, Professional Python, Luke Sneeringer, Wiley
+17, 1000000016, C# 6.0 in a nutshell : the definitive reference, Joseph Albahari, O'Reilly
+18, 1000000017, Beginning visual C# 2015 programming, Benjamin Perkins, Wiley
+19, 1000000018, Essential C# 6.0, Mark Michaelis, Addison-Welsley
+20, 1000000019, Head first C?, Andrew Stellman, O'Reilly
+21, 1000000020, Pro C# 2010 and the .NET 4 platform, Andrew Troelsen, Apress
+22, 1000000021, The Lost Tribe, Mark Lee, Picador USA
+23, 1000000022, End of Watch, Stephan King, Scribner
